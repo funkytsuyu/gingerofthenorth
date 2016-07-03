@@ -1,5 +1,4 @@
-Theme name:    Default
-Description:   This is the default, shiny theme for Anchor CMS.
-Author name:   Visual Idiot
-Author site:   http://visualidiot.com
-License:       http://licence.visualidiot.com
+Theme name:    Gingerofthenorth
+Description:   Custom theme for gingerofthenorth.com
+Author name:   oilandsugar
+Author site:   http://atelieroilandsugar.com
