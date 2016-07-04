@@ -55,6 +55,16 @@ h1 {
 	color: #e85e50;
 }
 
+/* links */
+
+a {
+	color: #ff886c;
+}
+
+a:hover {
+	color: #ff7a6c;
+}
+
 
 #top {
     overflow: hidden;
