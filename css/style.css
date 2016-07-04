@@ -109,15 +109,10 @@ h1 {
 }
 .items> li {
     padding: 70px 0 60px;
-    color: #97aec9;
-    background: #3c4552;
 }
 .posts .items> li:first-child {
     background: #fff !important;
     padding: 110px 0;
-}
-.items li h1 a, .posts .items> li:first-child h2 a {
-    color: #3d4551;
 }
 .items h1 {
     padding: 0 0 8px;
@@ -133,7 +128,6 @@ h1 {
     display: block;
     padding-bottom: 12px;
     color: #fff;
-    color: rgba(176, 200, 236, .8);
     text-decoration: none;
 }
 .items h2 a:hover {
@@ -154,8 +148,6 @@ h1 {
     overflow: hidden;
     padding: 30px 0;
     margin-bottom: 50px;
-    border-top: 1px solid rgba(22, 36, 54, .1);
-    border-bottom: 1px solid rgba(22, 36, 54, .1);
 }
 .pagination:empty {
     display: none;
@@ -165,10 +157,6 @@ h1 {
     text-decoration: none;
     font-size: 13px;
     font-weight: 500;
-    color: #6f7b8b;
-}
-.pagination a:hover {
-    color: #3c4857;
 }
 .pagination .next {
     float: right;
@@ -188,7 +176,6 @@ h1 {
     padding: 0 20px;
 }
 .content blockquote {
-    border-left: 3px solid #98a2b1;
     padding-left: 15px;
     margin: 15px 0;
 }
@@ -200,7 +187,6 @@ h1 {
 .footnote, .commentlist time, .items footer {
     display: block;
     padding: 5px 0 15px;
-    color: #98a2b1;
     font-size: 14px;
     font-style: italic;
     white-space: nowrap;
@@ -216,14 +202,12 @@ h1 {
 ul.commentlist {
     margin-bottom: 40px;
     list-style: none;
-    border-top: 1px solid rgba(22, 36, 54, .1);
 }
 ul.commentlist .wrap {
     position: relative;
 }
 ul.commentlist li {
     padding: 40px 0;
-    border-bottom: 1px solid rgba(22, 36, 54, .1);
 }
 ul.commentlist time {
     font-size: 13px;
@@ -238,7 +222,6 @@ ul.commentlist .counter {
     top: 0;
     font-size: 25px;
     font-weight: 300;
-    color: #cdd2da;
 }
 #comment {
     overflow: hidden;
@@ -265,12 +248,10 @@ ul.commentlist .counter {
     padding: 10px 15px;
     font-size: 15px;
     font-weight: normal;
-    border: 1px solid rgba(22, 36, 54, .2);
     border-radius: 4px;
 }
 #comment input:focus, #comment textarea:focus {
     outline: none;
-    background: #f7f9fc;
 }
 #comment textarea {
     min-height: 150px;
@@ -280,17 +261,13 @@ ul.commentlist .counter {
 #comment button {
     display: inline-block;
     padding: 9px 18px;
-    background: #4e82ce;
-    color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 13px;
     font-weight: 500;
 }
-#comment button:hover {
-    background: #3c6eb7;
-}
+
 
 /**
  *   Footer
