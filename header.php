@@ -6,6 +6,7 @@
 
 		<meta name="description" content="<?php echo site_description(); ?>">
 
+		<link href="https://fonts.googleapis.com/css?family=Questrial|Raleway" rel="stylesheet">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/reset.css'); ?>">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/style.css'); ?>">
 		<link rel="stylesheet" href="<?php echo theme_url('/css/small.css'); ?>" media="(max-width: 400px)">
@@ -52,7 +53,7 @@
 					<aside>
 						<b>Categories</b>
 						<ul>
-						<?php while(categories()): 
+						<?php while(categories()):
 								if (category_count() > 0) { ?>
 							<li>
 								<a href="<?php echo category_url(); ?>" title="<?php echo category_description(); ?>">
