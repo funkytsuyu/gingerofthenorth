@@ -335,3 +335,25 @@ ul.commentlist {
 		#bottom a {
 			text-decoration: none;
 		}
+
+		/**
+		 *   Color Scheme
+		 */
+		 .color-01 {
+			 background-color: #feb477;
+		 }
+		 .color-02 {
+			 background-color: #ffa06c;
+		 }
+		 .color-03 {
+			 background-color: #ff996c;
+		 }
+		 .color-04 {
+			 background-color: #ff886c;
+		 }
+		 .color-05 {
+			 background-color: #ff7a6c;
+		 }
+		 .color-06 {
+			 background-color: #e85e50;
+		 }
