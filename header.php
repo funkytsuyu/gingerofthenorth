@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="<?php echo theme_url('/css/small.css'); ?>" media="(max-width: 400px)">
 
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="<?php echo rss_url(); ?>">
-		<link rel="shortcut icon" href="<?php echo theme_url('img/favicon.png'); ?>">
+		<link rel="shortcut icon" href="<?php echo theme_url('favicon.ico'); ?>">
 
 		<!--[if lt IE 9]>
 			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
