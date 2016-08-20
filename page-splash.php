@@ -7,6 +7,9 @@
 						<span class="ginger">Ginger</span>
 						<span class="north">of the North</span>
 					</h1>
+				<h2>
+					Coming Soon
+				</h2>
 			</div>
 			<span>
 				<img src="<?php echo theme_url(); ?>/img/logo.gif">
