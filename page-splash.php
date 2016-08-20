@@ -1,9 +1,16 @@
 <?php theme_include('header'); ?>
 
 		<section class="content wrap">
-			<h1><?php echo page_title(); ?></h1>
-
-			<?php echo page_content(); ?>
+			<div id="splashscreen" class="orangeback">
+			<div class="logotxt bigpaddingtop bigpaddingbottom">
+				<h2>
+					Ginger of the North
+				</h2>
+			</div>
+			<span>
+				<img src="img/logo.gif">
+			</span>
+		</div>
 		</section>
 
 <?php theme_include('footer'); ?>
