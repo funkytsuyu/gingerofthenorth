@@ -19,6 +19,8 @@ h1 {
 		display: none;
 }
 
+/* Splash Screen */
+
 #splashscreen {
     height: 100%;
     text-align: center;
@@ -28,6 +30,16 @@ h1 {
 
 .orangeback {
     background: #FF8561;
+}
+
+.logotxt {
+    position: absolute;
+}
+.bigpaddingbottom {
+    padding-bottom: 40px;
+}
+.bigpaddingtop {
+    padding-top: 40px;
 }
 
 /*  Color Scheme  */
