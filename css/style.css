@@ -46,6 +46,11 @@ h1 {
     padding-top: 40px;
 }
 
+#splashscreen img {
+    margin-top: 50vh;
+    transform: translateY(-50%);
+}
+
 /*  Color Scheme  */
 
 .color-01 {
