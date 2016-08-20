@@ -8,7 +8,7 @@
 						<span class="north">of the North</span>
 					</h1>
 				<h2>
-					Coming Soon
+					<span class="soon">Coming Soon</span>
 				</h2>
 			</div>
 			<span>
