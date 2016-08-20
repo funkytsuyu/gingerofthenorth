@@ -2,7 +2,7 @@
  *
  */
 
-html, body, .content {
+html, body, .content, .main-wrap {
 	height:100%;
 }
 
