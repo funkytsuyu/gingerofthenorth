@@ -20,7 +20,7 @@ h2 {
 }
 
 .home #top,
-.home #footer {
+.home #bottom {
 		display: none;
 }
 
@@ -40,9 +40,10 @@ h2 {
 .logotxt {
     position: absolute;
     left: 0;
-    bottom: 40px;
+    top: 50%;
     z-index: 100;
     width: 100%;
+	margin-top: 160px;
 }
 .bigpaddingbottom {
     padding-bottom: 40px;
