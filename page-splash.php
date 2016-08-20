@@ -8,7 +8,7 @@
 				</h2>
 			</div>
 			<span>
-				<img src="<?php theme_url(); ?>/img/logo.gif">
+				<img src="<?php echo theme_url(); ?>/img/logo.gif">
 			</span>
 		</div>
 		</section>
