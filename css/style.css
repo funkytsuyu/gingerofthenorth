@@ -11,9 +11,12 @@ body {
     color: #000;
 }
 
+h1 {
+    font-family: 'Questrial', sans-serif;
+}
+
 h2 {
     font-family: 'Questrial', sans-serif;
-    color: #FFFFFF;
 }
 
 .home #top {
@@ -46,6 +49,14 @@ h2 {
 #splashscreen img {
     margin-top: 50vh;
     transform: translateY(-50%);
+}
+
+.ginger {
+		color: #ffffff;
+}
+
+.ofthenorth {
+	color: #ffd3bb;
 }
 
 /*  Color Scheme  */
