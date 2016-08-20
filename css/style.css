@@ -19,7 +19,8 @@ h2 {
     font-family: 'Questrial', sans-serif;
 }
 
-.home #top {
+.home #top,
+.home #footer {
 		display: none;
 }
 
@@ -38,6 +39,10 @@ h2 {
 
 .logotxt {
     position: absolute;
+    left: 0;
+    bottom: 40px;
+    z-index: 100;
+    width: 100%;
 }
 .bigpaddingbottom {
     padding-bottom: 40px;
@@ -214,7 +219,7 @@ a:hover {
  */
 
 .content {
-    padding-bottom: 50px;
+
 }
 .content ul, .content ol, .items li ul {
     padding: 20px 30px;
