@@ -12,14 +12,18 @@ body {
 }
 
 h1 {
-    font-family: 'Questrial', sans-serif;
-	margin:0 0 20px 0;
+   font-family: 'Questrial', sans-serif;
+	margin:0 0 10px 0;
+	letter-spacing:1px;
+	font-size:1.8rem;
 }
 
 h2 {
-   font-family: 'Questrial', sans-serif;
+  font-family: 'Questrial', sans-serif;
 	font-size: 1.2rem;
+	letter-spacing:1px;
 }
+
 
 .home #top,
 .home #bottom {
@@ -64,11 +68,11 @@ h2 {
 }
 
 .north {
-	color: #635452;
+	color: #ffffff;
 }
 
 .soon {
-	color: #FFFFFF;
+	color: #ffd3bb;
 }
 
 
